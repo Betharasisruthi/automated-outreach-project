@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Rahul",
+    "email": "testemail@gmail.com",
+    "company": "ABC Tech"
+  },
+  {
+    "name": "Anita",
+    "email": "anotheremail@gmail.com",
+    "company": "Startup Labs"
+  }
+]
