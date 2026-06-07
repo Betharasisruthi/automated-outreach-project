@@ -1,38 +1,32 @@
 # Automated Outreach Pipeline
 
 ## Overview
-This project automates cold outreach emails using Node.js and Nodemailer.
 
-## Features
-- Reads leads from JSON file
-- Sends automated emails
-- Uses Gmail SMTP
-- Beginner friendly
+This project demonstrates a simple automated outreach workflow using Node.js.
 
-## Installation
+The system:
 
-Install dependencies:
+* Reads lead data
+* Processes outreach automatically
+* Simulates email delivery
+* Displays outreach status in terminal
 
-```bash
-npm install
-```
+## Technologies Used
 
-## Setup
+* Node.js
+* JavaScript
 
-Create a `.env` file:
+## Files
 
-```env
-EMAIL=yourgmail@gmail.com
-PASSWORD=your_app_password
-```
+* `demo.js` → main automation script
+* `leads.json` → sample lead data
 
 ## Run Project
 
 ```bash
-node index.js
+node demo.js
 ```
 
-## Tech Stack
-- Node.js
-- Nodemailer
-- Gmail SMTP
+## Author
+
+Betharasi Sruthi
